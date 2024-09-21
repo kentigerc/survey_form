@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 5px;
+}
+form{
+  border: 1px solid green;
+  max-width: 400px;
+  border-radius: 8px;
+  margin: 10px ;
+  background-color: chartreuse;
+  
+  
+  
+}
+h1{
+  text-align: center;
+  color: blueviolet;
+  border-bottom: 1px solid;
+  background-color: aqua;
+  
+}
+button{
+  margin-top: 5px;
+  background-color: blue;
+  padding: 10px;
+  color: wheat;
+  border: none;
+  border-radius: 4px;
+    
+
+}
+.submit-button{
+  text-align: center;
+  
+}
